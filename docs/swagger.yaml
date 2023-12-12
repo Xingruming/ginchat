@@ -1,0 +1,14 @@
+info:
+  contact: {}
+paths:
+  /user/getUserList:
+    get:
+      responses:
+        "200":
+          description: code","message"}
+          schema:
+            type: string
+      summary: 所有用户
+      tags:
+      - 用户模块
+swagger: "2.0"
